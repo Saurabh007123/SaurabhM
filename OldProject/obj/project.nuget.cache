@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "NsyT9GK0cKDI6a74LBOwtC+x+IBFeT7+6RLOQraMTnPtrtayKXHi4MXlKSFRcexf1QQ3R0kG7pn+B+y1Ko35FA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Saurabh\\source\\repos\\Sample_Programs\\OldProject\\OldProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Saurabh\\.nuget\\packages\\dynamics365.uiautomation.api\\9.2.21084.148\\dynamics365.uiautomation.api.9.2.21084.148.nupkg.sha512",
+    "C:\\Users\\Saurabh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Saurabh\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\Saurabh\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\Saurabh\\.nuget\\packages\\selenium.webdriver.chromedriver\\96.0.4664.4500\\selenium.webdriver.chromedriver.96.0.4664.4500.nupkg.sha512",
+    "C:\\Users\\Saurabh\\.nuget\\packages\\selenium.webdriver.iedriver\\4.0.0\\selenium.webdriver.iedriver.4.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Dynamics365.UIAutomation.Api 9.2.21084.148' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Dynamics365.UIAutomation.Api",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
